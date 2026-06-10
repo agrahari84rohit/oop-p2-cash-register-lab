@@ -113,6 +113,12 @@ Before you submit your solution, you need to save your progress with git.
 2. Create a commit by executing git commit -m "Your commit message"
 3. Push your commits to GitHub by executing git push origin main or git push origin master , depending on the name of your branch (use git branch to check on which branch you are).
 
+## Completed Work
+
+The cash-register lab now includes the core register behavior: adding items, tracking totals, applying discounts, and voiding the most recent transaction.
+
+![Completed cash-register lab overview](images/completed-work.svg)
+
 ## Submission and Grading Criteria
 
 1. Use the rubric in Canvas as a guide for how this lab is graded.
